@@ -1,1 +1,1 @@
-Hi, I like Python
+Hi, I like JavaScript
